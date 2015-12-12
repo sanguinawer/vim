@@ -1,8 +1,9 @@
 # vim
 
 mapeo:
+-----
 
-  leader         = ,
+  >leader         = ,
 
   abrir tab      = leader tn
   
